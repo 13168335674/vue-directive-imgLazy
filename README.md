@@ -1,4 +1,4 @@
-# IntersectionObserver 实现图片懒加载
+# IntersectionObserver/图片懒加载
 
 # Use
 
